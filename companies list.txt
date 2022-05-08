@@ -1,0 +1,50 @@
+1. Microsoft
+2. Google
+3. Amazon
+4. Uber 
+5. Flipkart
+6. Paypal
+7. Cisco 
+8. Adobe
+9. Goldman Sachs
+10. JP Morgan
+11. LinkedIN 
+12. Citrix
+13. Qualcomm
+14. Intuit 
+15. Salesforce 
+16. American Express
+17. Credit Suisse
+18. Apple 
+19. Oracle
+20. Nvidia
+21. Vmware
+22. Atlassian
+23. Walmart
+24. Cred
+25. Razorpay
+26. Palo Alto Networks
+27. Texas Instruments
+28. Coinbase 
+29. Morgan Stanley 
+30. Meesho
+31. Aqr Capital
+32. DE Shaw
+33. Airbnb 
+34. Zomato
+35. Twitter
+36. Tower Research Capital
+37. PhonePe 
+38. Rubrik
+39. Expedia
+40. Dream 11
+41. Gojek
+42. Mykaarma
+43. Visa
+44. Sprinklr
+45. Zeta
+46. Media.net
+47. Arcesium
+48. Swiggy
+49. Hotstar
+50. Cult.fit
